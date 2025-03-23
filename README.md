@@ -1,15 +1,15 @@
-Version 1.0.1.0
+Version 1.0.2.1
 
-> Removed alpha froges
-> Can no longer pickup froges as they are being bonked (caused a crash)
-> Changed the rarity scoring system
-> The 'Continue' button now no longer plays a noise when clicked if there is no game to continue
-> Changed 'Goal' in help menu
-> Text-boxes now auto center
-> Added options menu
-> Can change fullscreen in options
-> Can change % chance of mutations in options (default to 25%)
-> Changed rarity labels
-> Added 2 new froges
-> Rarity circle now visible in froge-book
-> Changed froge-book visuals slightly
+> Added super froges
+> Added super froge-book
+> Super froges occur when froges (both with positive mutations) breed
+> Super froges result from specific froges breeding
+> Can tag frogs with different colors with 1-9 and remove tags with 0 or space
+> Super froges are worth 10x as many rarity points
+> Super froges cannot die naturally
+> Super Froge-Book also displays the two types of froges which were needed to make it
+> Redid saving mechanism
+> Super froges are saved
+> Super froge assignment is now dynamic (more easily changeable in-code)
+> Added a total of 12 Super Froges
+> Unique sound for super froge discovery
