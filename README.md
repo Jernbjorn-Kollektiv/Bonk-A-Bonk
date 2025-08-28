@@ -1,3 +1,4 @@
-Version 1.0.2.5
+Version 1.0.2.6
 
-> Fixed bug where froges that did not have a default type upon breeding would crash the game
+> Fixed saved games reverting to lower-tier froges when loading in
+> Game no longer deletes after loading in
